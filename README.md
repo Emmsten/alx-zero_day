@@ -1,1 +1,1 @@
-My first readme in zero day
+My first readme
